@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tiago Cruz</h1>
-<h3 align="center">Flutter Developer | Industrial Engineer | Industrial Management</h3>
+<h3 align="center">Flutter Developer | Engineering and Industrial Management</h3>
 
 - I'm currently working on personal projects - **My last project is related to provide assistance in critical/threatening situations**
 
