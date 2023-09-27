@@ -3,11 +3,11 @@
 
 - I'm currently working on personal projects - **My last project provides assistance in critical/threatening situations**
 
-- 🌱 I’m currently activily improving my flutter skillset
+- 📄 I’m currently activily improving my flutter skillset
 
-- 📫 How to reach me **tiagocruz.flutterdev@gmail.com**
+- How to reach me **tiagocruz.flutterdev@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/TiagoCX](www.linkedin.com/in/TiagoCX)
+- Know about my experiences [www.linkedin.com/in/TiagoCX](www.linkedin.com/in/TiagoCX)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
